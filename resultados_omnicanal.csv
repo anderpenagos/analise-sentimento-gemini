@@ -1,0 +1,4 @@
+﻿canal,cliente_id,texto,sentimento,emocao,tema,urgencia,resumo
+WhatsApp,C001,Minha geladeira começou a vazar água e ninguém resolve meu problema!,negativo,frustração,defeito,alta,"Geladeira vazando água, cliente insatisfeito com a falta de solução do problema."
+Email,C002,"Gostei muito do atendimento técnico, foi rápido e eficiente.",positivo,satisfação,atendimento técnico,baixa,"Atendimento técnico rápido e eficiente, resultou em grande satisfação do cliente."
+Instagram,C003,"Comprei um fogão e ele chegou amassado, quero troca urgente!",negativo,frustração,entrega,alta,"Fogão chegou amassado, cliente solicita troca urgente."
