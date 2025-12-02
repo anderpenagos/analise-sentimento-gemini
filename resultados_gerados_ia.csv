@@ -1,7 +1,0 @@
-﻿canal,cliente_id,texto,sentimento,emocao,tema,urgencia,resumo
-WhatsApp,C123,Estou furioso! Meu eletrônico chegou quebrado! Exijo uma solução imediata!,negativo,raiva,defeito,alta,Cliente relata que recebeu produto danificado e exige solução imediata.
-Email,C456,"Olá, tudo bem? Gostaria de saber como faço para rastrear meu pedido de móveis.",neutro,confusão,rastreamento,média,O cliente precisa de ajuda para rastrear seu pedido de móveis.
-Instagram,C789,Amei meu novo eletrodoméstico! A entrega foi super rápida e o produto é ótimo!,positivo,gratidão,elogio,baixa,Cliente satisfeito com a entrega rápida e a qualidade do produto.
-ReclameAqui,C101,Estou com problemas na configuração do meu eletrônico. O manual não é claro o suficiente.,negativo,confusão,dúvida técnica,média,"Usuário com dificuldade na configuração de eletrônico, manual confuso."
-Telefone,C234,Preciso falar com alguém sobre a entrega do meu pedido de móveis. Já passou do prazo!,negativo,raiva,atraso,alta,Cliente precisa de suporte sobre entrega atrasada de móveis.
-WhatsApp,C567,"Olá, tudo bom? Gostaria de tirar uma dúvida sobre as especificações técnicas do eletrodoméstico X.",neutro,confusao,duvida tecnica,baixa,O cliente busca esclarecimentos sobre as especificações técnicas de um eletrodoméstico.

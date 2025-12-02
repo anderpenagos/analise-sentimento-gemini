@@ -23,7 +23,7 @@ O sistema opera com dois Agentes de IA autônomos:
 ```bash
 git clone https://github.com/anderpenagos/analise-sentimento-gemini.git
 cd analise-sentimento-gemini
-´´´
+```
 ### 2. Crie um ambiente virtual
 ```bash
 python -m venv venv
@@ -31,22 +31,22 @@ python -m venv venv
 venv\Scripts\activate
 # Linux/Mac:
 source venv/bin/activate
-´´´
+```
 ### 3. Instale as dependências
 ```bash
 pip install -r requirements.txt
-´´´
+```
 ### 4. Configure a API Key
 Este projeto precisa de uma chave de API do Google Gemini.
 1. Crie um arquivo chamado .env na raiz do projeto.
 2. Adicione sua chave neste formato:
 ```Env
 pip install -r requirements.txt
-´´´
+```
 ### 5. Execute o script
 ```bash
 python app.py
-´´´
+```
 ### Exemplo de Saída (CSV)
 
 O script gera um arquivo resultados_gerados_ia.csv com colunas como:
